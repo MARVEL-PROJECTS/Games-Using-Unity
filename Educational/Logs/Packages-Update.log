@@ -29,3 +29,11 @@ The following packages were added:
   com.unity.xr.legacyinputhelpers@2.1.4
 The following packages were updated:
   com.unity.textmeshpro from version 2.0.1 to 3.0.1
+
+=== Wed Nov  4 20:18:07 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ext.nunit@1.0.0
